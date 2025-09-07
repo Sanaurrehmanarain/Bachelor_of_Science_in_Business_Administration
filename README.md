@@ -75,9 +75,9 @@ The **B.S. in Business Administration** program emphasizes:
 
 ## 📌 Notes
 
-* This repository is for **academic reference and personal archiving**.
-* Please do not copy or reuse content without permission.
-* The work here represents my personal academic journey at UoPeople.
+* This repository is intended solely for **academic reference and educational purposes**. Its aim is to provide students with **guidance, assignment outlines, and suggestions**, as well as to serve as a **personal archive**.
+* Please do not copy or reuse the content without permission. The materials here are meant only for inspiration and idea generation, not for direct use in any institution.
+* All work in this repository reflects my personal academic journey at the University of the People (UoPeople).
 
 ---
 
