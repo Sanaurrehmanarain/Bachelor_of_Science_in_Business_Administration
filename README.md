@@ -2,11 +2,6 @@
 
 # Bachelor of Science in Business Administration – University of the People
 
-## My Academic Repository  
-
-This repository is intended solely for academic reference and personal archiving.  
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
 This repository contains my complete academic work from the **Bachelor of Science in Business Administration (B.S. in Business Administration)** program at **University of the People (UoPeople)**.
 
 It serves as a portfolio of my studies, including coursework, assignments, reflections, and collaborative projects.
